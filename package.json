@@ -1,0 +1,16 @@
+{
+  "name": "example-nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "El-shk-shb",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^77.0.0",
+    "nightwatch": "^1.2.4",
+    "selenium-server": "^3.141.59"
+  }
+}
